@@ -1,0 +1,28 @@
+.title{
+    font-size: 23px;
+    width: 100%;
+    margin-top: 0px;
+    color: white;
+}
+
+#note{
+    color: black;
+    font-size: 15px;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 2px solid grey;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+
+#song-playing{
+    width: fit-content;
+    height: 45px;
+    font-size: x-large;
+}
+
